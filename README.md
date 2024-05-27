@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python , Data base, Cyber Security, Cloud Computing, OOPs
 - 🌱 I’m currently learning ...Python Full Stack
 - 💞️ I’m looking to collaborate on ...Software Developer
-- 📫 How to reach me ...
+- 📫 Throgh google/linkedin i have catched this github data.
 - 😄 Pronouns: ...He/his/him
 - ⚡ Fun fact: ...I am a self Motivating and Honest Person who never give up on learning and moves with a positive attitude
 
